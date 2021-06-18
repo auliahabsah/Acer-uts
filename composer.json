@@ -1,5 +1,5 @@
 {
-    "name": "lenovo/uts",
+    "name": "Acer/uts",
     "description": "UTS Pemrograman Berbasis Web Lanjutan",
     "type": "project",
     "require": {
@@ -12,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "Wilda",
-            "email": "maudynawilda@gmail.com"
+            "name": "Aulia",
+            "email": "auliahabsahlubis@gmail.com"
         }
     ]
 }

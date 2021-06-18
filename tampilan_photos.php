@@ -7,7 +7,7 @@
 <body>
 	<div class="main-body">
 		<header>
-			<img src="layout/assets/images/fotoo.png">
+			<img src="layout/assets/images/gallery.png">
 			<h2>GALLERY PHOTOGRAPHY</h2>
 			<p>A pict can give you all of the memory</p>
 		</header>
